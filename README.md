@@ -1,1 +1,1 @@
-# codilityPython
+# Codility Lessons in Python
